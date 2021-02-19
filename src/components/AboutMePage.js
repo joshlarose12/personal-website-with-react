@@ -9,7 +9,7 @@ export default function AboutMePage() {
   return (
     <div style={{ marginTop: 80 }}>
       <Carousel className="bg-dark align-content-center">
-        <Carousel.Item style={{ height: 500 }} className="text-center">
+        <Carousel.Item style={{ height: 600 }} className="text-center">
           <img
             className="img-fluid"
             style={{ maxWidth: "80%" }}
@@ -21,7 +21,7 @@ export default function AboutMePage() {
             <p>I got engaged in July 2020</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item style={{ height: 500 }}>
+        <Carousel.Item style={{ height: 600 }}>
           <img
             className="d-block img-fluid text-center"
             src={climbing}
@@ -33,7 +33,7 @@ export default function AboutMePage() {
             <p>Climbing at The Junction in London, ON</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item style={{ height: 500 }} className="text-center">
+        <Carousel.Item style={{ height: 600 }} className="text-center">
           <img
             className=" text-center"
             style={{ maxWidth: "80%" }}
@@ -55,7 +55,8 @@ export default function AboutMePage() {
           <div className="col">
             <p className="lead container text-center">
               <b>Who am I? </b>I am a fourth year software engineering student
-              at Western University. I love spending time with my family and
+              at Western University. I am graduating this year and am exited to
+              enter the work force. I love spending time with my family and
               friends. I am getting married this May and cannot be more excited.
               I love to travel and had the oppurtunity to go to France and Italy
               last year. I enjoy rock climbing and it has proved a great way to
